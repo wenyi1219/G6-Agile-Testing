@@ -18,7 +18,9 @@ public class HelloWorld {
         
         // TODO code application logic here
         System.out.println("hello world 1");
-        System.out.println("Hello world 1");
+        System.out.println("Hello world 2");
+        System.out.println("Hello world 3");
+       
     }
     
 }
